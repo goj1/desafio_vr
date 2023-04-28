@@ -132,3 +132,6 @@ Em seguida digite `yarn start` para iniciar o aplicativo `i` para emular no simu
 Você pode seguir os passos convencionais para testar a aplicação, conforme abaixo: 
 
 DEV: `yarn ios` or `yarn android`
+
+## Screenshots
+
