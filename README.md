@@ -138,3 +138,9 @@ Ou você pode emular em um aparelho físico.
 
 ## Screenshots
 
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-04-27 at 21 28 04](https://user-images.githubusercontent.com/2940930/235036425-d1a0ded5-a391-4228-8a0b-952e2e028b61.png)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-04-27 at 21 28 08](https://user-images.githubusercontent.com/2940930/235036427-c9d5609e-68c5-4f1e-9650-330681b99661.png)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-04-27 at 21 28 21](https://user-images.githubusercontent.com/2940930/235036428-10364a70-3308-4ffb-b4bf-8760ee8dbec4.png)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-04-27 at 21 28 27](https://user-images.githubusercontent.com/2940930/235036431-e9e9cd13-a0f6-4050-8fac-2da539997723.png)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-04-27 at 21 28 31](https://user-images.githubusercontent.com/2940930/235036433-6d590341-3818-46da-b689-8c01e56b19b4.png)
+
