@@ -133,5 +133,8 @@ Você pode seguir os passos convencionais para testar a aplicação, conforme ab
 
 DEV: `yarn ios` or `yarn android`
 
+Obs.: Emule preferencialmente no iOS pois o emulador android requer algumas configurações de rede para fazer chamadas https. 
+Ou você pode emular em um aparelho físico.
+
 ## Screenshots
 
